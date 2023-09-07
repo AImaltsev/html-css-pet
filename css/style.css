@@ -1,0 +1,49 @@
+/* Общие стили */
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700;800&display=swap');
+
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+/* Our Store */
+.container {
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 0 250px;
+}
+
+.story {}
+
+.story_title {
+    text-transform: uppercase;
+}
+
+.story_left {}
+
+.story_title3 {}
+
+.text_accent {}
+
+.story_text {}
+
+.story_right {}
+
+.story_item1 {}
+
+.story_item2 {}
+
+.story_item3 {}
